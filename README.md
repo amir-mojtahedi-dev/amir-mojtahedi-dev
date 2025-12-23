@@ -1,16 +1,31 @@
-## Hi there 👋
+# Amir Mojtahedi
 
-<!--
-**amir-mojtahedi-dev/amir-mojtahedi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior JavaScript Developer with a focus on building strong fundamentals and developing engineering-oriented thinking.
 
-Here are some ideas to get you started:
+## Profile
+I am at an early stage of my software development career, currently concentrating on:
+- Core JavaScript concepts (arrays, objects, functions, DOM)
+- Writing clear, maintainable code
+- Understanding problem-solving approaches and technical trade-offs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile is intentionally kept minimal and accurate, reflecting my current level and ongoing learning process.
+
+## Current Direction
+- Strengthening JavaScript fundamentals through consistent practice
+- Improving code readability and structure
+- Preparing for junior-level technical interviews
+- Building a solid base before moving to frameworks and backend development
+
+## Approach
+- Prefer clarity over complexity
+- Focus on understanding fundamentals before abstraction
+- Value steady, incremental progress over rushed results
+
+## Roadmap
+- Complete focused JavaScript practice and small logic-oriented exercises
+- Progress to minimal, well-scoped projects
+- Transition to React and backend technologies when the fundamentals are solid
+
+---
+
+This profile will evolve gradually as practical experience and real project work are added.
