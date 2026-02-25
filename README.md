@@ -1,6 +1,6 @@
 # Amir Mojtahedi
 
-Junior JavaScript Developer focused on building strong fundamentals and developing an engineering-oriented mindset.
+Junior Front-End Developer focused on building strong fundamentals and developing an engineering-oriented mindset.
 
 ## Profile
 I am at an early stage of my software development career, currently concentrating on:
@@ -20,10 +20,5 @@ This GitHub profile is intentionally kept minimal and accurate, reflecting my cu
 - Prefer clarity over complexity
 - Focus on fundamentals before abstraction
 - Value steady, incremental progress over rushed results
-
-## Roadmap
-- Deepen JavaScript fundamentals through focused practice
-- Build small, well-scoped, logic-oriented projects
-- Transition to React and backend technologies once the foundation is solid
 
 This profile will evolve gradually as practical experience and real project work are added.
